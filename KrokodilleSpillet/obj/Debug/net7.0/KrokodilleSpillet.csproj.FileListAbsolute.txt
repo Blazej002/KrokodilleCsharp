@@ -1,0 +1,15 @@
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\bin\Debug\net7.0\KrokodilleSpillet.exe
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\bin\Debug\net7.0\KrokodilleSpillet.deps.json
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\bin\Debug\net7.0\KrokodilleSpillet.runtimeconfig.json
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\bin\Debug\net7.0\KrokodilleSpillet.dll
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\bin\Debug\net7.0\KrokodilleSpillet.pdb
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.csproj.AssemblyReference.cache
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.AssemblyInfoInputs.cache
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.AssemblyInfo.cs
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.csproj.CoreCompileInputs.cache
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.dll
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\refint\KrokodilleSpillet.dll
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.pdb
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\KrokodilleSpillet.genruntimeconfig.cache
+C:\VsStudio\KrokodilleCsharp\KrokodilleSpillet\KrokodilleSpillet\obj\Debug\net7.0\ref\KrokodilleSpillet.dll
